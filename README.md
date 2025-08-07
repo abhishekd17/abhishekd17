@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/abhishekd17"><img src="https://img.shields.io/github/followers/abhishekd17?label=Follow&style=social" /></a>
-  <a href="https://www.linkedin.com/in/abhishek"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-kumawat-0390ab27a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" /></a>
   <a href="mailto:abhishekdon9928@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
