@@ -14,7 +14,7 @@
 ### 👨‍💻 Quick Facts
 
 - 🎓 **B.Tech CSE @ NIT Patna** (Top 1% of class)
-- 💼 ** Software Engineer Intern @Amazon **
+- 💼 **Software Engineer Intern @Amazon**
 - 💼 **Software & Network Engineer Intern @ Springer Capital**
 - 🏆 **Student Hacks Int'l Hackathon** — 1st place.
 - 🚀 **Competitive Coding:**  
