@@ -14,11 +14,11 @@
 ### 👨‍💻 Quick Facts
 
 - 🎓 **B.Tech CSE @ NIT Patna** (Top 1% of class)
-- 💼 **Software Engineer Intern @Amazon**
-- 💼 **Software & Network Engineer Intern @ Springer Capital**
+- 💼 **Software Engineer Intern @Amazon [Jan 2026 - Jun 2026]**
+- 💼 **Software & Network Engineer Intern @ Springer Capital [May 2025 - Aug 2025]**
 - 🏆 **Student Hacks Int'l Hackathon** — 1st place.
 - 🚀 **Competitive Coding:**  
-  - Codeforces: **Expert** (Rating 1687)
+  - Codeforces: **Expert** (Rating 1764)
   - CodeChef: **4★** (Rating 1839)
   - LeetCode: **Knight** (Rating 1906)
   - StopStalk: **2000+ problems solved**
